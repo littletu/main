@@ -1,6 +1,8 @@
 {
   "rewrites": [
-    { "source": "/api/:match*", "destination": "/api/:match*.json" },
+    { "source": "/api/projects", "destination": "/api/data.json" },
+    { "source": "/api/selected", "destination": "/api/selected.json" },
+    { "source": "/api/settings", "destination": "/api/settings.json" },
     { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
