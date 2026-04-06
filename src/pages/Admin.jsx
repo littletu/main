@@ -121,7 +121,7 @@ export default function Admin() {
             onChange={(e) => setPassword(e.target.value)}
             onKeyDown={(e) => { 
               if (e.key === 'Enter') {
-                if (password === 'miaoken123') setIsAuthenticated(true); 
+                if (password === '29203912') setIsAuthenticated(true); 
                 else alert('密碼錯誤！'); 
               }
             }}
@@ -129,7 +129,7 @@ export default function Admin() {
             autoFocus
           />
           <button 
-            onClick={() => { if (password === 'miaoken123') setIsAuthenticated(true); else alert('密碼錯誤！'); }}
+            onClick={() => { if (password === '29203912') setIsAuthenticated(true); else alert('密碼錯誤！'); }}
             style={{ padding: '10px 20px', background: '#2a2a2a', color: '#fff', border: 'none', borderRadius: '4px', cursor: 'pointer' }}
           >
             登入
