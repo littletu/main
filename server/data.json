@@ -1,0 +1,700 @@
+[
+  {
+    "name": "TSMC 台積電全球研發中心",
+    "category": "企業總部大樓",
+    "domain": "https://www.tsmc.com",
+    "customLogo": "https://www.tsmc.com/themes/custom/bootstrap_sass/images/logo.png"
+  },
+  {
+    "name": "TSMC 台積電晶圓二十廠",
+    "category": "商用空間",
+    "domain": "https://www.tsmc.com",
+    "customLogo": "https://www.tsmc.com/themes/custom/bootstrap_sass/images/logo.png"
+  },
+  {
+    "name": "TSMC 台積電先進封測三廠",
+    "category": "商用空間",
+    "domain": "https://www.tsmc.com",
+    "customLogo": "https://www.tsmc.com/themes/custom/bootstrap_sass/images/logo.png"
+  },
+  {
+    "name": "TSMC 台積電先進封測六廠",
+    "category": "商用空間",
+    "domain": "https://www.tsmc.com",
+    "customLogo": "https://www.tsmc.com/themes/custom/bootstrap_sass/images/logo.png"
+  },
+  {
+    "name": "TSMC 台積電中科新人訓練中心",
+    "category": "商用空間",
+    "domain": "https://www.tsmc.com",
+    "customLogo": "https://www.tsmc.com/themes/custom/bootstrap_sass/images/logo.png"
+  },
+  {
+    "name": "TSMC 台積電南科晶圓P5廠辦",
+    "category": "商用空間",
+    "domain": "https://www.tsmc.com",
+    "customLogo": "https://www.tsmc.com/themes/custom/bootstrap_sass/images/logo.png"
+  },
+  {
+    "name": "TSMC 台積電南科晶圓14廠 P3",
+    "category": "商用空間",
+    "domain": "https://www.tsmc.com",
+    "customLogo": "https://www.tsmc.com/themes/custom/bootstrap_sass/images/logo.png"
+  },
+  {
+    "name": "TSMC 台積電竹科晶圓12廠",
+    "category": "商用空間",
+    "domain": "https://www.tsmc.com",
+    "customLogo": "https://www.tsmc.com/themes/custom/bootstrap_sass/images/logo.png"
+  },
+  {
+    "name": "TSMC 台積電CP03測試廠",
+    "category": "商用空間",
+    "domain": "https://www.tsmc.com",
+    "customLogo": "https://www.tsmc.com/themes/custom/bootstrap_sass/images/logo.png"
+  },
+  {
+    "name": "TSMC 台積電中科晶圓廠辦 II",
+    "category": "商用空間",
+    "domain": "https://www.tsmc.com",
+    "customLogo": "https://www.tsmc.com/themes/custom/bootstrap_sass/images/logo.png"
+  },
+  {
+    "name": "Qualcomm 大樓",
+    "category": "企業辦公室",
+    "domain": "qualcomm.com"
+  },
+  {
+    "name": "LINE Taiwan Office",
+    "category": "企業辦公室",
+    "domain": "line.me"
+  },
+  {
+    "name": "瑞健總部大樓",
+    "category": "企業總部大樓",
+    "domain": "shl-medical.com"
+  },
+  {
+    "name": "惠榮科技總部大樓",
+    "category": "企業總部大樓",
+    "domain": "https://www.siliconmotion.com/"
+  },
+  {
+    "name": "笙科電子台元辦公室",
+    "category": "企業辦公室",
+    "domain": "https://www.amiccom.com.tw",
+    "customLogo": "https://www.amiccom.com.tw/images/ch/logo.jpg"
+  },
+  {
+    "name": "致茂電子總部",
+    "category": "企業總部大樓",
+    "domain": "chromaate.com"
+  },
+  {
+    "name": "城邦南港新辦公室",
+    "category": "企業辦公室",
+    "domain": "cite.com.tw"
+  },
+  {
+    "name": "南茂科技",
+    "category": "企業辦公室",
+    "domain": "chipmos.com",
+    "customLogo": "https://www.chipmos.com/assets/img/layout/logo.svg"
+  },
+  {
+    "name": "采鈺科技龍科廠辦公室",
+    "category": "企業辦公室",
+    "domain": "viseraseotech.com",
+    "customLogo": "https://www.viseratech.com/tw/images/logo.svg"
+  },
+  {
+    "name": "松川精密嘉義廠",
+    "category": "商用空間",
+    "domain": "songchuan.com",
+    "customLogo": "https://songchuanusa.com/wp-content/uploads/2020/08/song-chuan-logo-350-b.png"
+  },
+  {
+    "name": "立信機構企業總部",
+    "category": "企業總部大樓",
+    "domain": "https://www.lihshinn.com/"
+  },
+  {
+    "name": "玉山銀行總行",
+    "category": "金融業",
+    "domain": "https://www.esunbank.com/"
+  },
+  {
+    "name": "玉山銀行第二總部大樓 數位夢工場",
+    "category": "金融業",
+    "domain": "https://www.esunbank.com/"
+  },
+  {
+    "name": "玉山銀行第二總部大樓",
+    "category": "金融業",
+    "domain": "https://www.esunbank.com/"
+  },
+  {
+    "name": "玉山銀行科技大樓 辦公空間",
+    "category": "金融業",
+    "domain": "https://www.esunbank.com/"
+  },
+  {
+    "name": "玉山銀行行史館 - 玉山紀事",
+    "category": "金融業",
+    "domain": "https://www.esunbank.com/"
+  },
+  {
+    "name": "玉山銀行人力發展中心",
+    "category": "金融業",
+    "domain": "https://www.esunbank.com/"
+  },
+  {
+    "name": "玉山銀行 高雄旗艦大樓",
+    "category": "金融業",
+    "domain": "https://www.esunbank.com/"
+  },
+  {
+    "name": "日月光中壢廠 K棟 / M棟",
+    "category": "商用空間",
+    "domain": "asecg.com"
+  },
+  {
+    "name": "中鋼集團總部大樓",
+    "category": "企業總部大樓",
+    "domain": "csc.com.tw",
+    "customLogo": "https://www.csc.com.tw/images_new/csc_logo.png"
+  },
+  {
+    "name": "中華機械關渡新廠",
+    "category": "商用空間",
+    "domain": "https://www.capitalmachinery.com.tw/"
+  },
+  {
+    "name": "中華賓士關渡展示中心",
+    "category": "商用空間",
+    "domain": "https://www.mercedes-benz.com.tw/"
+  },
+  {
+    "name": "中華賓士高雄展示中心-AMG展廳",
+    "category": "商用空間",
+    "domain": "https://www.mercedes-benz.com.tw/"
+  },
+  {
+    "name": "中華賓士桃園展示中心",
+    "category": "商用空間",
+    "domain": "https://www.mercedes-benz.com.tw/"
+  },
+  {
+    "name": "中華賓士河南路展示中心",
+    "category": "商用空間",
+    "domain": "https://www.mercedes-benz.com.tw/"
+  },
+  {
+    "name": "中華賓士台中展示中心-AMG展廳",
+    "category": "商用空間",
+    "domain": "https://www.mercedes-benz.com.tw/"
+  },
+  {
+    "name": "中華賓士中港路展示中心",
+    "category": "商用空間",
+    "domain": "https://www.mercedes-benz.com.tw/"
+  },
+  {
+    "name": "Alliance Bernstein",
+    "category": "金融業",
+    "domain": "alliancebernstein.com"
+  },
+  {
+    "name": "Applied Materials GTLC",
+    "category": "企業辦公室",
+    "domain": "appliedmaterials.com"
+  },
+  {
+    "name": "Applied Materials Linkou",
+    "category": "企業辦公室",
+    "domain": "appliedmaterials.com"
+  },
+  {
+    "name": "Applied Materials Taiwan",
+    "category": "企業辦公室",
+    "domain": "appliedmaterials.com"
+  },
+  {
+    "name": "Autodesk",
+    "category": "企業辦公室",
+    "domain": "autodesk.com"
+  },
+  {
+    "name": "BlackRock",
+    "category": "金融業",
+    "domain": "blackrock.com"
+  },
+  {
+    "name": "CIGNA",
+    "category": "金融業",
+    "domain": "cigna.com.tw",
+    "customLogo": "https://newsroom.thecignagroup.com/image/1050x591-cigna-healthcare-logo.png"
+  },
+  {
+    "name": "CIGNA KH MinChu",
+    "category": "金融業",
+    "domain": "cigna.com.tw",
+    "customLogo": "https://newsroom.thecignagroup.com/image/1050x591-cigna-healthcare-logo.png"
+  },
+  {
+    "name": "Chubb",
+    "category": "金融業",
+    "domain": "chubb.com"
+  },
+  {
+    "name": "Cisco",
+    "category": "企業辦公室",
+    "domain": "cisco.com"
+  },
+  {
+    "name": "Credit Suisse",
+    "category": "金融業",
+    "domain": "credit-suisse.com"
+  },
+  {
+    "name": "DBS星展銀行內湖辦公室",
+    "category": "金融業",
+    "domain": "dbs.com"
+  },
+  {
+    "name": "DELL",
+    "category": "企業辦公室",
+    "domain": "dell.com"
+  },
+  {
+    "name": "DeFITs Capital 台北辦公室",
+    "category": "金融業",
+    "domain": null
+  },
+  {
+    "name": "Diageo",
+    "category": "企業辦公室",
+    "domain": "diageo.com"
+  },
+  {
+    "name": "Gartner",
+    "category": "企業辦公室",
+    "domain": "gartner.com"
+  },
+  {
+    "name": "Google",
+    "category": "企業辦公室",
+    "domain": "google.com"
+  },
+  {
+    "name": "Hewlett Packard Enterprise",
+    "category": "企業辦公室",
+    "domain": "hpe.com"
+  },
+  {
+    "name": "IBM CFC",
+    "category": "企業辦公室",
+    "domain": "ibm.com"
+  },
+  {
+    "name": "Intel",
+    "category": "企業辦公室",
+    "domain": "intel.com"
+  },
+  {
+    "name": "JP morgan",
+    "category": "金融業",
+    "domain": "jpmorgan.com"
+  },
+  {
+    "name": "JnJ",
+    "category": "企業辦公室",
+    "domain": "jnj.com"
+  },
+  {
+    "name": "Merck",
+    "category": "企業辦公室",
+    "domain": "merck.com"
+  },
+  {
+    "name": "Natixis",
+    "category": "金融業",
+    "domain": "natixis.com",
+    "customLogo": "https://static-assets.natixis.simplebo.net/assets/natixis/logo_main-940f981d.svg"
+  },
+  {
+    "name": "Neuberger Berman",
+    "category": "金融業",
+    "domain": "nb.com",
+    "customLogo": "https://www.nb.com/-/media/NB/Logos/nb_standard_logo_black"
+  },
+  {
+    "name": "Nike",
+    "category": "企業辦公室",
+    "domain": "nike.com"
+  },
+  {
+    "name": "P & G",
+    "category": "企業辦公室",
+    "domain": "pg.com"
+  },
+  {
+    "name": "Parexel International",
+    "category": "企業辦公室",
+    "domain": "parexel.com"
+  },
+  {
+    "name": "Qualcomm CTIP",
+    "category": "企業辦公室",
+    "domain": "qualcomm.com"
+  },
+  {
+    "name": "Qualcomm NeiHu",
+    "category": "企業辦公室",
+    "domain": "qualcomm.com"
+  },
+  {
+    "name": "Sanofi",
+    "category": "企業辦公室",
+    "domain": "sanofi.com"
+  },
+  {
+    "name": "State Street Bank",
+    "category": "金融業",
+    "domain": "statestreet.com"
+  },
+  {
+    "name": "Syneos",
+    "category": "企業辦公室",
+    "domain": "syneoshealth.com"
+  },
+  {
+    "name": "Syneos Health Taipei",
+    "category": "企業辦公室",
+    "domain": "syneoshealth.com"
+  },
+  {
+    "name": "UBS",
+    "category": "金融業",
+    "domain": "ubs.com"
+  },
+  {
+    "name": "Warner Bros Discovery",
+    "category": "企業辦公室",
+    "domain": "wbd.com"
+  },
+  {
+    "name": "WorldQuant",
+    "category": "企業辦公室",
+    "domain": "worldquant.com"
+  },
+  {
+    "name": "YOUNG LIVING台北辦公室",
+    "category": "企業辦公室",
+    "domain": "youngliving.com",
+    "customLogo": "https://images.ctfassets.net/x0wnv07j8mtt/2do1w6GtWLOdE9N06gKEeq/4d7c7fc88f814e83b2baf77a0fcfa9da/YL_Logo_2022_FULL__1_.svg"
+  },
+  {
+    "name": "台北101 尊榮俱樂部",
+    "category": "商用空間",
+    "domain": "taipei-101.com.tw",
+    "customLogo": "https://www.taipei-101.com.tw/asset/img/logo-white.svg"
+  },
+  {
+    "name": "台北君悅酒店1-2樓",
+    "category": "商用空間",
+    "domain": "hyatt.com"
+  },
+  {
+    "name": "台灣愛丁頓寰盛辦公室",
+    "category": "企業辦公室",
+    "domain": "edrington.com"
+  },
+  {
+    "name": "喜瑪拉雅基金會",
+    "category": "商用空間",
+    "domain": "https://www.himalaya.org.tw/",
+    "customLogo": "https://www.himalaya.org.tw/upload/%7B636650149782316123%7D_common_header_logo.png"
+  },
+  {
+    "name": "大元建築事務所",
+    "category": "商用空間",
+    "domain": "artech-inc.com",
+    "customLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwJKllSN9kInI82qwazWFb_OcLMUhfugfrdA&s"
+  },
+  {
+    "name": "大瓏企業 展示廳",
+    "category": "商用空間",
+    "domain": "https://www.newdean.com.tw/ND/cn/viewcn/index.html",
+    "customLogo": "https://www.newdean.com.tw/ND/CN/ImagesCN/Index/logo.png"
+  },
+  {
+    "name": "戴姆勒台北辦公室",
+    "category": "企業辦公室",
+    "domain": "mercedes-benz.com.tw",
+    "customLogo": "https://locations.daimlertruck.com/_nuxt/daimler-logo.420983d8.svg"
+  },
+  {
+    "name": "日月光中壢廠",
+    "category": "商用空間",
+    "domain": "asecg.com"
+  },
+  {
+    "name": "明門實業汐止辦公室",
+    "category": "企業辦公室",
+    "domain": "wonderland.com.tw",
+    "customLogo": "https://www.wonderland.com.tw/assets/img/logo/logo-wonderland.svg"
+  },
+  {
+    "name": "玉山銀行創意中心二期",
+    "category": "金融業",
+    "domain": "https://www.esunbank.com/"
+  },
+  {
+    "name": "華南銀行新形象 南松山示範分行",
+    "category": "金融業",
+    "domain": "hncb.com.tw",
+    "customLogo": "https://www.hncb.com.tw/wps/wcm/connect/b11e6bc5-349d-4640-b2f9-ed25edca6b35/logo-hncb.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE-b11e6bc5-349d-4640-b2f9-ed25edca6b35-oVFobkx"
+  },
+  {
+    "name": "鴻霖全球運輸公司",
+    "category": "商用空間",
+    "domain": "morrisonexpress.com"
+  },
+  {
+    "name": "上海商銀 行史館",
+    "category": "金融業",
+    "domain": "scsb.com.tw",
+    "customLogo": "https://www.scsb.com.tw/content/images/logo_sb.svg"
+  },
+  {
+    "name": "YOUNG LIVING台中辦公室",
+    "category": "企業辦公室",
+    "domain": "youngliving.com",
+    "customLogo": "https://images.ctfassets.net/x0wnv07j8mtt/2do1w6GtWLOdE9N06gKEeq/4d7c7fc88f814e83b2baf77a0fcfa9da/YL_Logo_2022_FULL__1_.svg"
+  },
+  {
+    "name": "TSMC台積創新館",
+    "category": "商用空間",
+    "domain": "tsmc.com",
+    "customLogo": "https://www.tsmc.com/themes/custom/bootstrap_sass/images/logo.png"
+  },
+  {
+    "name": "Sony Store 漢神巨蛋店",
+    "category": "商用空間",
+    "domain": "sony.com.tw"
+  },
+  {
+    "name": "Sony Store 台北101 B1",
+    "category": "商用空間",
+    "domain": "sony.com.tw"
+  },
+  {
+    "name": "聯立賓士新竹展示中心",
+    "category": "商用空間",
+    "domain": "https://www.mercedes-benz.com.tw/"
+  },
+  {
+    "name": "桃園大溪威斯汀酒店",
+    "category": "商用空間",
+    "domain": "starwoodhotels.com"
+  },
+  {
+    "name": "美麗華高爾夫鄉村俱樂部",
+    "category": "商用空間",
+    "domain": "miramar.com.tw"
+  },
+  {
+    "name": "宏其婦幼醫院",
+    "category": "商用空間",
+    "domain": "hungchi.com.tw",
+    "customLogo": "https://www.hungchihospital.org.tw/images/all/logo.svg"
+  },
+  {
+    "name": "老爺行旅宜蘭傳藝中餐廳",
+    "category": "商用空間",
+    "domain": "hotelroyal.com.tw",
+    "customLogo": "https://www.hotelroyal.com.tw/Files/Images/Logo/20210830_group_logo.svg"
+  },
+  {
+    "name": "台北101 88樓高空場域",
+    "category": "商用空間",
+    "domain": "taipei-101.com.tw",
+    "customLogo": "https://www.taipei-101.com.tw/asset/img/logo-white.svg"
+  },
+  {
+    "name": "中華賓士內湖展廳",
+    "category": "商用空間",
+    "domain": "https://www.mercedes-benz.com.tw/"
+  },
+  {
+    "name": "三立電視-B1F藝能中心",
+    "category": "企業辦公室",
+    "domain": "setn.com",
+    "customLogo": "https://upload.wikimedia.org/wikipedia/zh/thumb/e/e2/SET_incorporated_logo.svg/250px-SET_incorporated_logo.svg.png"
+  },
+  {
+    "name": "三立電視-創意中心",
+    "category": "企業辦公室",
+    "domain": "setn.com",
+    "customLogo": "https://upload.wikimedia.org/wikipedia/zh/thumb/e/e2/SET_incorporated_logo.svg/250px-SET_incorporated_logo.svg.png"
+  },
+  {
+    "name": "三立電視-行動媒體辦公室",
+    "category": "企業辦公室",
+    "domain": "setn.com",
+    "customLogo": "https://upload.wikimedia.org/wikipedia/zh/thumb/e/e2/SET_incorporated_logo.svg/250px-SET_incorporated_logo.svg.png"
+  },
+  {
+    "name": "DBS星展銀行 JoySpace 辦公空間",
+    "category": "金融業",
+    "domain": "dbs.com"
+  },
+  {
+    "name": "匯豐銀行天母分行",
+    "category": "金融業",
+    "domain": "hsbc.com.tw",
+    "customLogo": "https://www.hsbc.com.tw/content/dam/hsbc/tw/images/logos/13608-hsbc-masterbrand-tc-logo.png"
+  },
+  {
+    "name": "凱基銀行南京東路營業部",
+    "category": "金融業",
+    "domain": "kgibank.com.tw",
+    "customLogo": "https://www.kgibank.com.tw/zh-tw/-/media/images/kgib/header/logo-kgib.svg?h=750&w=750&hash=790AAAFF5D67632E5760642D6B6248F3"
+  },
+  {
+    "name": "第一銀行 高資產理財旗艦中心",
+    "category": "金融業",
+    "domain": "firstbank.com.tw",
+    "customLogo": "https://www.firstbank.com.tw/sites/FirstBankWebRevision/img/logo-firstbank.svg"
+  },
+  {
+    "name": "金融研訓院",
+    "category": "金融業",
+    "domain": "tabf.org.tw",
+    "customLogo": "https://www.tabf.org.tw/TabfNew/Content/img/logo.svg"
+  },
+  {
+    "name": "花旗銀行桃園分行",
+    "category": "金融業",
+    "domain": "citibank.com.tw",
+    "customLogo": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDQiIGhlaWdodD0iMTE4IiB2aWV3Qm94PSIwIDAgMjA0IDExOCIgZmlsbD0ibm9uZSI+CjxwYXRoIGQ9Ik0wLjk0Nzc1NCA3OS45NjY4QzAuOTQ3NzU0IDU4Ljk3MzIgMTguMTA5NiA0Mi42MjkyIDQwLjQ3NjMgNDIuNjI5MkM1My40MTggNDIuNjI5MiA2NS4yMzQ0IDQ4LjQwNTkgNzEuOTg2NiA1Ny4xNDE1TDYyLjI4MDMgNjYuODYzNEM1OS43MDU3IDYzLjU2MTggNTYuNDIwOCA2MC44ODQzIDUyLjY3MDEgNTkuMDMwM0M0OC45MTkzIDU3LjE3NjMgNDQuNzk5NCA1Ni4xOTM2IDQwLjYxNjkgNTYuMTU1M0MyNy4yNTMyIDU2LjE1NTMgMTYuNTYyMiA2Ni4xNTg5IDE2LjU2MjIgNzkuOTY2OEMxNi41NjIyIDkzLjkxNTUgMjcuMjUzMiAxMDMuOTE5IDQwLjYxNjkgMTAzLjkxOUM0NC45NDkgMTAzLjkxNCA0OS4yMjE0IDEwMi45MDcgNTMuMTAxIDEwMC45NzZDNTYuOTgwNiA5OS4wNDUyIDYwLjM2MjcgOTYuMjQzMiA2Mi45ODM2IDkyLjc4ODRMNzIuNTQ5MiAxMDIuMjI4QzY2LjA3ODQgMTExLjM4NyA1My42OTkzIDExNy40NDUgNDAuNDc2MyAxMTcuNDQ1QzE4LjEwOTYgMTE3LjQ0NSAwLjk0Nzc1NCAxMDEuMTAxIDAuOTQ3NzU0IDc5Ljk2NjhaIiBmaWxsPSIjMjU1QkUzIi8+CjxwYXRoIGQ9Ik04NS4yMDk1IDQ1LjE2NTNIMTAwLjU0M1YxMTQuOTA5SDg1LjIwOTVWNDUuMTY1M1oiIGZpbGw9IiMyNTVCRTMiLz4KPHBhdGggZD0iTTEyOS4wOTkgOTYuMTY5OFY1OC4xMjc4SDExMi4zNTlWNDUuMTY1M0gxMjkuODAzVjMwLjIzMDJMMTQ0LjE1MSAyMy4xODU0VjQ1LjE2NTNIMTY2Ljk0VjU4LjEyNzhIMTQ0LjE1MVY5My42MzM3QzE0NC4xNTEgMTAwLjY3OSAxNDguMDkgMTAzLjc3OCAxNTUuNTQ1IDEwMy43NzhDMTU5LjQyNSAxMDMuNzk4IDE2My4yNjMgMTAyLjk4MSAxNjYuNzk5IDEwMS4zODNWMTE0LjYyN0MxNjIuMzY5IDExNi41NzQgMTU3LjU2OSAxMTcuNTM2IDE1Mi43MzIgMTE3LjQ0NUMxMzkuMDg3IDExNy40NDUgMTI5LjA5OSAxMDkuOTc4IDEyOS4wOTkgOTYuMTY5OFoiIGZpbGw9IiMyNTVCRTMiLz4KPHBhdGggZD0iTTE3OS4wMzcgNDUuMTY1M0gxOTQuMzdWMTE0LjkwOUgxNzkuMDM3VjQ1LjE2NTNaIiBmaWxsPSIjMjU1QkUzIi8+CjxwYXRoIGQ9Ik0xMzkuNjQ4IDAuNzgyODMyQzE1Mi4yNDEgMC43NTI3MyAxNjQuNjU3IDMuNzU4MzEgMTc1Ljg0NiA5LjU0NTc1QzE4Ny4wMzUgMTUuMzMzMiAxOTYuNjY5IDIzLjczMjUgMjAzLjkzNSAzNC4wMzQ0SDE4Ni4wN0MxODAuMjE0IDI3LjUxNTQgMTczLjA1NSAyMi4zMDI2IDE2NS4wNTggMTguNzM0M0MxNTcuMDYxIDE1LjE2NiAxNDguNDAzIDEzLjMyMjEgMTM5LjY0OCAxMy4zMjIxQzEzMC44OTMgMTMuMzIyMSAxMjIuMjM2IDE1LjE2NiAxMTQuMjM5IDE4LjczNDNDMTA2LjI0MiAyMi4zMDI2IDk5LjA4MjcgMjcuNTE1NCA5My4yMjcgMzQuMDM0NEg3NS4zNjE4QzgyLjYyNzcgMjMuNzMyNSA5Mi4yNjIxIDE1LjMzMzIgMTAzLjQ1MSA5LjU0NTc1QzExNC42NCAzLjc1ODMxIDEyNy4wNTUgMC43NTI3MyAxMzkuNjQ4IDAuNzgyODMyVjAuNzgyODMyWiIgZmlsbD0iI0ZGM0MyOCIvPgo8L3N2Zz4="
+  },
+  {
+    "name": "花旗銀行內湖分行",
+    "category": "金融業",
+    "domain": "citibank.com.tw",
+    "customLogo": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDQiIGhlaWdodD0iMTE4IiB2aWV3Qm94PSIwIDAgMjA0IDExOCIgZmlsbD0ibm9uZSI+CjxwYXRoIGQ9Ik0wLjk0Nzc1NCA3OS45NjY4QzAuOTQ3NzU0IDU4Ljk3MzIgMTguMTA5NiA0Mi42MjkyIDQwLjQ3NjMgNDIuNjI5MkM1My40MTggNDIuNjI5MiA2NS4yMzQ0IDQ4LjQwNTkgNzEuOTg2NiA1Ny4xNDE1TDYyLjI4MDMgNjYuODYzNEM1OS43MDU3IDYzLjU2MTggNTYuNDIwOCA2MC44ODQzIDUyLjY3MDEgNTkuMDMwM0M0OC45MTkzIDU3LjE3NjMgNDQuNzk5NCA1Ni4xOTM2IDQwLjYxNjkgNTYuMTU1M0MyNy4yNTMyIDU2LjE1NTMgMTYuNTYyMiA2Ni4xNTg5IDE2LjU2MjIgNzkuOTY2OEMxNi41NjIyIDkzLjkxNTUgMjcuMjUzMiAxMDMuOTE5IDQwLjYxNjkgMTAzLjkxOUM0NC45NDkgMTAzLjkxNCA0OS4yMjE0IDEwMi45MDcgNTMuMTAxIDEwMC45NzZDNTYuOTgwNiA5OS4wNDUyIDYwLjM2MjcgOTYuMjQzMiA2Mi45ODM2IDkyLjc4ODRMNzIuNTQ5MiAxMDIuMjI4QzY2LjA3ODQgMTExLjM4NyA1My42OTkzIDExNy40NDUgNDAuNDc2MyAxMTcuNDQ1QzE4LjEwOTYgMTE3LjQ0NSAwLjk0Nzc1NCAxMDEuMTAxIDAuOTQ3NzU0IDc5Ljk2NjhaIiBmaWxsPSIjMjU1QkUzIi8+CjxwYXRoIGQ9Ik04NS4yMDk1IDQ1LjE2NTNIMTAwLjU0M1YxMTQuOTA5SDg1LjIwOTVWNDUuMTY1M1oiIGZpbGw9IiMyNTVCRTMiLz4KPHBhdGggZD0iTTEyOS4wOTkgOTYuMTY5OFY1OC4xMjc4SDExMi4zNTlWNDUuMTY1M0gxMjkuODAzVjMwLjIzMDJMMTQ0LjE1MSAyMy4xODU0VjQ1LjE2NTNIMTY2Ljk0VjU4LjEyNzhIMTQ0LjE1MVY5My42MzM3QzE0NC4xNTEgMTAwLjY3OSAxNDguMDkgMTAzLjc3OCAxNTUuNTQ1IDEwMy43NzhDMTU5LjQyNSAxMDMuNzk4IDE2My4yNjMgMTAyLjk4MSAxNjYuNzk5IDEwMS4zODNWMTE0LjYyN0MxNjIuMzY5IDExNi41NzQgMTU3LjU2OSAxMTcuNTM2IDE1Mi43MzIgMTE3LjQ0NUMxMzkuMDg3IDExNy40NDUgMTI5LjA5OSAxMDkuOTc4IDEyOS4wOTkgOTYuMTY5OFoiIGZpbGw9IiMyNTVCRTMiLz4KPHBhdGggZD0iTTE3OS4wMzcgNDUuMTY1M0gxOTQuMzdWMTE0LjkwOUgxNzkuMDM3VjQ1LjE2NTNaIiBmaWxsPSIjMjU1QkUzIi8+CjxwYXRoIGQ9Ik0xMzkuNjQ4IDAuNzgyODMyQzE1Mi4yNDEgMC43NTI3MyAxNjQuNjU3IDMuNzU4MzEgMTc1Ljg0NiA5LjU0NTc1QzE4Ny4wMzUgMTUuMzMzMiAxOTYuNjY5IDIzLjczMjUgMjAzLjkzNSAzNC4wMzQ0SDE4Ni4wN0MxODAuMjE0IDI3LjUxNTQgMTczLjA1NSAyMi4zMDI2IDE2NS4wNTggMTguNzM0M0MxNTcuMDYxIDE1LjE2NiAxNDguNDAzIDEzLjMyMjEgMTM5LjY0OCAxMy4zMjIxQzEzMC44OTMgMTMuMzIyMSAxMjIuMjM2IDE1LjE2NiAxMTQuMjM5IDE4LjczNDNDMTA2LjI0MiAyMi4zMDI2IDk5LjA4MjcgMjcuNTE1NCA5My4yMjcgMzQuMDM0NEg3NS4zNjE4QzgyLjYyNzcgMjMuNzMyNSA5Mi4yNjIxIDE1LjMzMzIgMTAzLjQ1MSA5LjU0NTc1QzExNC42NCAzLjc1ODMxIDEyNy4wNTUgMC43NTI3MyAxMzkuNjQ4IDAuNzgyODMyVjAuNzgyODMyWiIgZmlsbD0iI0ZGM0MyOCIvPgo8L3N2Zz4="
+  },
+  {
+    "name": "花旗銀行土城分行",
+    "category": "金融業",
+    "domain": "citibank.com.tw",
+    "customLogo": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDQiIGhlaWdodD0iMTE4IiB2aWV3Qm94PSIwIDAgMjA0IDExOCIgZmlsbD0ibm9uZSI+CjxwYXRoIGQ9Ik0wLjk0Nzc1NCA3OS45NjY4QzAuOTQ3NzU0IDU4Ljk3MzIgMTguMTA5NiA0Mi42MjkyIDQwLjQ3NjMgNDIuNjI5MkM1My40MTggNDIuNjI5MiA2NS4yMzQ0IDQ4LjQwNTkgNzEuOTg2NiA1Ny4xNDE1TDYyLjI4MDMgNjYuODYzNEM1OS43MDU3IDYzLjU2MTggNTYuNDIwOCA2MC44ODQzIDUyLjY3MDEgNTkuMDMwM0M0OC45MTkzIDU3LjE3NjMgNDQuNzk5NCA1Ni4xOTM2IDQwLjYxNjkgNTYuMTU1M0MyNy4yNTMyIDU2LjE1NTMgMTYuNTYyMiA2Ni4xNTg5IDE2LjU2MjIgNzkuOTY2OEMxNi41NjIyIDkzLjkxNTUgMjcuMjUzMiAxMDMuOTE5IDQwLjYxNjkgMTAzLjkxOUM0NC45NDkgMTAzLjkxNCA0OS4yMjE0IDEwMi45MDcgNTMuMTAxIDEwMC45NzZDNTYuOTgwNiA5OS4wNDUyIDYwLjM2MjcgOTYuMjQzMiA2Mi45ODM2IDkyLjc4ODRMNzIuNTQ5MiAxMDIuMjI4QzY2LjA3ODQgMTExLjM4NyA1My42OTkzIDExNy40NDUgNDAuNDc2MyAxMTcuNDQ1QzE4LjEwOTYgMTE3LjQ0NSAwLjk0Nzc1NCAxMDEuMTAxIDAuOTQ3NzU0IDc5Ljk2NjhaIiBmaWxsPSIjMjU1QkUzIi8+CjxwYXRoIGQ9Ik04NS4yMDk1IDQ1LjE2NTNIMTAwLjU0M1YxMTQuOTA5SDg1LjIwOTVWNDUuMTY1M1oiIGZpbGw9IiMyNTVCRTMiLz4KPHBhdGggZD0iTTEyOS4wOTkgOTYuMTY5OFY1OC4xMjc4SDExMi4zNTlWNDUuMTY1M0gxMjkuODAzVjMwLjIzMDJMMTQ0LjE1MSAyMy4xODU0VjQ1LjE2NTNIMTY2Ljk0VjU4LjEyNzhIMTQ0LjE1MVY5My42MzM3QzE0NC4xNTEgMTAwLjY3OSAxNDguMDkgMTAzLjc3OCAxNTUuNTQ1IDEwMy43NzhDMTU5LjQyNSAxMDMuNzk4IDE2My4yNjMgMTAyLjk4MSAxNjYuNzk5IDEwMS4zODNWMTE0LjYyN0MxNjIuMzY5IDExNi41NzQgMTU3LjU2OSAxMTcuNTM2IDE1Mi43MzIgMTE3LjQ0NUMxMzkuMDg3IDExNy40NDUgMTI5LjA5OSAxMDkuOTc4IDEyOS4wOTkgOTYuMTY5OFoiIGZpbGw9IiMyNTVCRTMiLz4KPHBhdGggZD0iTTE3OS4wMzcgNDUuMTY1M0gxOTQuMzdWMTE0LjkwOUgxNzkuMDM3VjQ1LjE2NTNaIiBmaWxsPSIjMjU1QkUzIi8+CjxwYXRoIGQ9Ik0xMzkuNjQ4IDAuNzgyODMyQzE1Mi4yNDEgMC43NTI3MyAxNjQuNjU3IDMuNzU4MzEgMTc1Ljg0NiA5LjU0NTc1QzE4Ny4wMzUgMTUuMzMzMiAxOTYuNjY5IDIzLjczMjUgMjAzLjkzNSAzNC4wMzQ0SDE4Ni4wN0MxODAuMjE0IDI3LjUxNTQgMTczLjA1NSAyMi4zMDI2IDE2NS4wNTggMTguNzM0M0MxNTcuMDYxIDE1LjE2NiAxNDguNDAzIDEzLjMyMjEgMTM5LjY0OCAxMy4zMjIxQzEzMC44OTMgMTMuMzIyMSAxMjIuMjM2IDE1LjE2NiAxMTQuMjM5IDE4LjczNDNDMTA2LjI0MiAyMi4zMDI2IDk5LjA4MjcgMjcuNTE1NCA5My4yMjcgMzQuMDM0NEg3NS4zNjE4QzgyLjYyNzcgMjMuNzMyNSA5Mi4yNjIxIDE1LjMzMzIgMTAzLjQ1MSA5LjU0NTc1QzExNC42NCAzLjc1ODMxIDEyNy4wNTUgMC43NTI3MyAxMzkuNjQ4IDAuNzgyODMyVjAuNzgyODMyWiIgZmlsbD0iI0ZGM0MyOCIvPgo8L3N2Zz4="
+  },
+  {
+    "name": "合作金庫銀行 CoLab 創新實驗室",
+    "category": "金融業",
+    "domain": "tcb-bank.com.tw",
+    "customLogo": "https://play-lh.googleusercontent.com/CyEmFr0ZKmxYKpGDa0lIFgs2V3-6YSq4OC3acSOt_OCfDNQi6NCx7n-Qdag9z_musity"
+  },
+  {
+    "name": "玉山銀行新板特區分行",
+    "category": "金融業",
+    "domain": "https://www.esunbank.com/"
+  },
+  {
+    "name": "玉山銀行南山廣場分行",
+    "category": "金融業",
+    "domain": "https://www.esunbank.com/"
+  },
+  {
+    "name": "玉山銀行台北分行",
+    "category": "金融業",
+    "domain": "https://www.esunbank.com/"
+  },
+  {
+    "name": "玉山銀行台大分行",
+    "category": "金融業",
+    "domain": "https://www.esunbank.com/"
+  },
+  {
+    "name": "玉山銀行 台中都心分行",
+    "category": "金融業",
+    "domain": "https://www.esunbank.com/"
+  },
+  {
+    "name": "台北富邦銀行建國分行",
+    "category": "金融業",
+    "domain": "fubon.com",
+    "customLogo": "https://www.fubon.com/banking/common_content/images/logo.png?v=1"
+  },
+  {
+    "name": "台北富邦銀行城東分行",
+    "category": "金融業",
+    "domain": "fubon.com",
+    "customLogo": "https://www.fubon.com/banking/common_content/images/logo.png?v=1"
+  },
+  {
+    "name": "上海銀行新總部大樓",
+    "category": "金融業",
+    "domain": "scsb.com.tw",
+    "customLogo": "https://www.scsb.com.tw/content/images/logo_sb.svg"
+  },
+  {
+    "name": "台北富邦銀行市府分行",
+    "category": "金融業",
+    "domain": "fubon.com",
+    "customLogo": "https://www.fubon.com/banking/common_content/images/logo.png?v=1"
+  },
+  {
+    "name": "王道銀行-信義威秀分行",
+    "category": "金融業",
+    "domain": "o-bank.com",
+    "customLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/O-Bank_logo.svg/250px-O-Bank_logo.svg.png"
+  },
+  {
+    "name": "中國信託南港新總行",
+    "category": "金融業",
+    "domain": "ctbcbank.com",
+    "customLogo": "https://upload.wikimedia.org/wikipedia/zh/thumb/3/36/CTBC_Bank_logo.svg/250px-CTBC_Bank_logo.svg.png"
+  },
+  {
+    "name": "中國信託土城分行",
+    "category": "金融業",
+    "domain": "ctbcbank.com",
+    "customLogo": "https://upload.wikimedia.org/wikipedia/zh/thumb/3/36/CTBC_Bank_logo.svg/250px-CTBC_Bank_logo.svg.png"
+  },
+  {
+    "name": "中國交通銀行台北分行",
+    "category": "金融業",
+    "domain": "bankcomm.com.tw",
+    "customLogo": "https://upload.wikimedia.org/wikipedia/zh/thumb/3/36/CTBC_Bank_logo.svg/250px-CTBC_Bank_logo.svg.png"
+  },
+  {
+    "name": "上海商業儲蓄銀行三重分行",
+    "category": "金融業",
+    "domain": "scsb.com.tw",
+    "customLogo": "https://www.scsb.com.tw/content/images/logo_sb.svg"
+  },
+  {
+    "name": "嚴宅",
+    "category": "住宅",
+    "domain": null
+  },
+  {
+    "name": "辜宅",
+    "category": "住宅",
+    "domain": null
+  },
+  {
+    "name": "張宅",
+    "category": "住宅",
+    "domain": null
+  },
+  {
+    "name": "王宅",
+    "category": "住宅",
+    "domain": null
+  }
+]
