@@ -194,6 +194,7 @@ body {
   font-size: 60px;
   line-height: 1; /* Keep line height tight for alignment */
   letter-spacing: 2px;
+  white-space: nowrap; /* Force single line */
   pointer-events: none; /* So clicks pass through to the wrapper */
   animation: fadeIn 0.4s ease forwards;
 }
@@ -345,4 +346,9 @@ body {
   }
   .page-title { margin-left: 0; font-size: 3.5rem; }
   .home-logo { width: 100%; height: auto; }
+  .logo-quote {
+    font-size: 4.5vw;
+    letter-spacing: 1px;
+    bottom: 15%; /* Slight adjustment for mobile proportion */
+  }
 }
