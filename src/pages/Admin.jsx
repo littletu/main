@@ -37,9 +37,17 @@ export default function Admin() {
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(projects)
     })
-    .then(res => res.json())
+    .then(async res => {
+      if (!res.ok) throw new Error(`HTTP error ${res.status}`);
+      return res.json();
+    })
     .then(() => {
       alert('專案儲存成功！');
+      setSaving(false);
+    })
+    .catch(err => {
+      console.error(err);
+      alert('儲存失敗！這可能是由於您正在正式線上環境 (唯讀狀態)，或是本機伺服器未開啟。\n' + err.message);
       setSaving(false);
     });
   };
@@ -51,9 +59,17 @@ export default function Admin() {
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(selectedProjects)
     })
-    .then(res => res.json())
+    .then(async res => {
+      if (!res.ok) throw new Error(`HTTP error ${res.status}`);
+      return res.json();
+    })
     .then(() => {
       alert('精選圖文專案儲存成功！');
+      setSaving(false);
+    })
+    .catch(err => {
+      console.error(err);
+      alert('儲存失敗！這可能是由於您正在正式線上環境 (唯讀狀態)，或是本機伺服器未開啟。\n' + err.message);
       setSaving(false);
     });
   };
@@ -65,9 +81,17 @@ export default function Admin() {
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(settings)
     })
-    .then(res => res.json())
+    .then(async res => {
+      if (!res.ok) throw new Error(`HTTP error ${res.status}`);
+      return res.json();
+    })
     .then(() => {
       alert('網站文字儲存成功！');
+      setSaving(false);
+    })
+    .catch(err => {
+      console.error(err);
+      alert('儲存失敗！這可能是由於您正在正式線上環境 (唯讀狀態)，或是本機伺服器未開啟。\n' + err.message);
       setSaving(false);
     });
   };
