@@ -5,7 +5,7 @@ export default function Contact() {
   const [error, setError] = useState(false);
 
   useEffect(() => {
-    fetch('http://localhost:3003/api/settings')
+    fetch('/api/settings')
       .then(res => res.json())
       .then(json => setData(json.contact))
       .catch(err => {
