@@ -142,15 +142,15 @@ body {
 .project-row {
   display: flex;
   align-items: center;
-  gap: 15px;
-  font-size: 1.35rem;
+  gap: 20px;
+  font-size: 1.8rem;
   color: var(--text-main);
   font-weight: 300;
   transition: transform 0.2s;
 }
 .project-row:hover { transform: translateX(5px); }
 .company-logo-wrapper {
-  width: 40px; height: 40px;
+  width: 60px; height: 60px;
   border-radius: 50%;
   background: #fff;
   display: flex; align-items: center; justify-content: center;
@@ -159,7 +159,7 @@ body {
   overflow: hidden; flex-shrink: 0;
 }
 .company-logo { max-width: 70%; max-height: 70%; object-fit: contain; }
-.company-initial { font-size: 1rem; font-weight: 600; color: #888; font-family: var(--font-sans); }
+.company-initial { font-size: 1.5rem; font-weight: 600; color: #888; font-family: var(--font-sans); }
 
 /* Home Page */
 .home-container {
